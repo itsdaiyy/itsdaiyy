@@ -50,5 +50,5 @@
 ### 📫 Contact Me
 
 - GitHub：[@itsdaiyy](https://github.com/itsdaiyy)
-- Email：behoya11@gmail.com
+- Email：behoyadai@gmail.com
   
