@@ -1,10 +1,10 @@
 ## Hi，我是戴 👋🏻
 
 - Front-end Web Developer  
-- 擅長使用 React 搭配 Bootstrap / Tailwind 打造現代化前端應用 💻  
-- 喜歡研究網站動態特效與互動設計，重視細節與實際操作體驗 👀
-- 2024 參與六角學院直播培訓課程，精進切版、JavaScript、React 等核心技能  
-- 目前持續進修 Next.js、動效技術、UX 設計，期望成為具備設計思維的開發者 🎨
+- 熟悉使用 React 搭配 Bootstrap / Tailwind 開發前端應用程式 💻  
+- 能夠使用 Miro 繪製線稿圖、網站架構圖、功能流程圖，使用 Codepen 快速與設計師溝通視覺想法 💭
+- 2024 參與六角學院直播培訓課程，精進切版、JavaScript、React 等實戰核心技能✨  
+- 目前持續進修 Next.js、動效技術（GSAP、Framer Motion）、UX 設計，期望成為具備設計思維的開發者 🎨
 
 ---
 
