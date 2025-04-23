@@ -2,8 +2,8 @@
 
 - Front-end Web Developer  
 - 擅長使用 React 搭配 Bootstrap / Tailwind 打造現代化前端應用 💻  
-- 喜歡研究 UI 動效與使用者行為，重視細節與實際操作體驗 👀
-- 2024 參與六角學院直播培訓課程，學習切版、JavaScript、React 等核心技能  
+- 喜歡研究網站動態特效與互動設計，重視細節與實際操作體驗 👀
+- 2024 參與六角學院直播培訓課程，精進切版、JavaScript、React 等核心技能  
 - 目前持續進修 Next.js 與網頁動效，期望成為具備設計思維的開發者 🎨
 
 ---
@@ -32,8 +32,8 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-<br />
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) <br />
+
 #### 🎨 Styling
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -47,7 +47,7 @@
 
 ---
 
-### 📫 Contact
+### 📫 Contact Me
 
 - GitHub：[@itsdaiyy](https://github.com/itsdaiyy)
 - Email：behoya11@gmail.com
