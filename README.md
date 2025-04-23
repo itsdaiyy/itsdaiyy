@@ -47,7 +47,7 @@
 
 ---
 
-### 📫 Contact Me
+### 📫 Contact
 
 - GitHub：[@itsdaiyy](https://github.com/itsdaiyy)
 - Email：behoya11@gmail.com
