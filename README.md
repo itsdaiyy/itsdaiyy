@@ -11,11 +11,10 @@
 ### 🎨 Projects
 
 - **[📦 返箱轉運站](https://ana000701.github.io/react-boxes/)** - 與團隊共同開發的二手紙箱回收服務平台
-  - [🔗 前往 repo ](https://github.com/itsdaiyy/react-boxes)
   - 使用者可透過地圖搜尋合作商家進行紙箱交換，致力於減少紙箱資源浪費 ♻️  
   - 技術使用：`React`, `Supabase`, `React Router`, `Leaflet`, `ShadCN`, `Tailwind CSS` <br />
   - 在這個專案裡我主要負責：資料結構設計、Supabase 串接、React Query 遠端資料管理、使用者權限設計
-
+  - [🔗 前往 repo ](https://github.com/itsdaiyy/react-boxes)
 ---
 
 ### 🔜 What I'm Learning
