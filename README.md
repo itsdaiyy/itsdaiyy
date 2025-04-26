@@ -15,8 +15,8 @@
   - 使用者可透過地圖搜尋合作商家進行紙箱交換，致力於減少紙箱資源浪費 ♻️  
   - 技術使用：`React`, `Supabase`, `React Router`, `Leaflet`, `ShadCN`, `Tailwind CSS` <br />
   - 主要負責項目：
-    1. **開發前期 | ** 以Miro 規劃店家資訊頁面 Wireframe、會員資訊頁功能流程圖、網站地圖，並統整團隊意見與設計師溝通視覺想法。
-    2. **開發階段 | **資料結構設計、Supabase 串接、React Query 遠端資料管理、使用者權限設計。
+    1. **開發前期 |** 以Miro 規劃店家資訊頁面 Wireframe、會員資訊頁功能流程圖、網站地圖，並統整團隊意見與設計師溝通視覺想法。
+    2. **開發階段 |** 資料結構設計、Supabase 串接、React Query 遠端資料管理、使用者權限設計。
   - [🔗 查看 GitHub Repo ](https://github.com/itsdaiyy/react-boxes)
  
 - **[文章訂閱網站](https://itsdaiyy.github.io/2024-hex-week6-website/)** - 個人靜態切版專案
