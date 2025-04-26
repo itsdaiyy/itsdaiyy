@@ -1,28 +1,30 @@
 ## Hi，我是戴 👋🏻
 
 - Front-end Web Developer  
-- 熟悉 React 搭配 Bootstrap / Tailwind 開發前端應用程式 💻  
-- 能夠使用 Miro 繪製線稿圖、網站架構圖、功能流程圖，使用 Codepen 快速與設計師溝通視覺想法 💭
-- 2024 參與六角學院培訓課程，精進切版、JavaScript、React 等實戰核心技能 ✨  
-- 目前持續進修 Next.js、動效技術（GSAP、Framer Motion）、UX 設計，期望成為具備設計思維的開發者 🎨
+- 熟悉以 React 搭配 Bootstrap / Tailwind 開發前端應用程式 💻  
+- 能夠使用 Miro 繪製線稿圖、網站架構圖與功能流程圖，並透過 CodePen 快速 prototyping，促進與設計師的視覺溝通 💭
+- 2024 參與六角學院培訓課程，精進切版、JavaScript、React 等前端實戰技能 ✨
+- 目前專注於網站動態特效（GSAP、Framer Motion）應用，並規劃學習 Next.js，拓展伺服器渲染與 SEO 最佳化技術 📈
+- 遠期目標：期望成為具備設計思維的開發者 🎨
 
 ---
 
 ### 🎨 Projects
 
-- **[📦 返箱轉運站](https://ana000701.github.io/react-boxes/)** - 與團隊共同開發的二手紙箱回收服務平台
+- **[📦 返箱轉運站](https://ana000701.github.io/react-boxes/)** - 二手紙箱回收服務平台（團隊合作）
   - 使用者可透過地圖搜尋合作商家進行紙箱交換，致力於減少紙箱資源浪費 ♻️  
   - 技術使用：`React`, `Supabase`, `React Router`, `Leaflet`, `ShadCN`, `Tailwind CSS` <br />
   - 主要負責項目：
-    - 開發前期 | Miro 規劃店家資訊頁面 Wireframe、會員資訊頁功能流程圖、網站地圖，並統整小組意見與設計師溝通視覺想法。
-    - 開發階段 | 資料結構設計、Supabase 串接、React Query 遠端資料管理、使用者權限設計。
-  - [🔗 前往 repo ](https://github.com/itsdaiyy/react-boxes)
+    1. **開發前期 | ** 以Miro 規劃店家資訊頁面 Wireframe、會員資訊頁功能流程圖、網站地圖，並統整團隊意見與設計師溝通視覺想法。
+    2. **開發階段 | **資料結構設計、Supabase 串接、React Query 遠端資料管理、使用者權限設計。
+  - [🔗 查看 GitHub Repo ](https://github.com/itsdaiyy/react-boxes)
  
 - **[文章訂閱網站](https://itsdaiyy.github.io/2024-hex-week6-website/)** - 個人靜態切版專案
-  - 使用技術：Bootstrap 5, EJS
-  - 客製化 Bootstrap Sass 樣式，並採用 7-1 Pattern 架構管理 CSS 樣式。
- 
-- 
+  - 客製化 Bootstrap Sass 主題，採用 7-1 Pattern 管理 CSS 架構。
+  - 使用技術： `Bootstrap 5` , `EJS`
+
+
+
 ---
 
 ### 🔜 What I'm Learning
