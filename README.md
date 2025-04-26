@@ -27,9 +27,9 @@
 
 ---
 
-### 🔜 What I'm Learning
+### 🔥 Current Focus
 
-- 網頁動效與互動設計：GSAP、Framer Motion
+- 網頁動態特效：GSAP、Framer Motion
 - SSR 與動態路由：Next.js
 
 ---
