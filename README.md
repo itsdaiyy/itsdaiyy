@@ -51,13 +51,15 @@
 ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=none&logoColor=white)  <br />
 
 
-#### 💻 Tools & Editor
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+#### 💻 Tools & Collaboration
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
+
 
 ---
 
-### 📫 Contact Me
+### 📫 Get in Touch
 
 - GitHub：[@itsdaiyy](https://github.com/itsdaiyy)
 - Email：behoyadai@gmail.com
