@@ -17,12 +17,12 @@
   - 主要負責項目：
     1. **發想階段 |** 以 Miro 規劃店家資訊頁面 Wireframe、會員資訊頁功能流程圖、網站地圖，並統整團隊意見與設計師溝通視覺想法。
     2. **開發階段 |** 資料結構設計、Supabase 串接、React Query 遠端資料管理、使用者權限設計。
-  - [🔗 查看 GitHub Repo ](https://github.com/itsdaiyy/react-boxes)
+  - [🔗 前往 Repo ](https://github.com/itsdaiyy/react-boxes)
  
 - **[文章訂閱網站](https://itsdaiyy.github.io/2024-hex-week6-website/)** - 個人靜態切版專案
   - 客製化 Bootstrap Sass 主題，採用 7-1 Pattern 管理 CSS 架構。
   - 使用技術： `Bootstrap 5` , `EJS`
-  - [🔗 查看 GitHub Repo ](https://github.com/itsdaiyy/react-boxes)
+  - [🔗 前往 Repo ](https://github.com/itsdaiyy/react-boxes)
 
 
 ---
