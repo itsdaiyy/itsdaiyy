@@ -23,7 +23,7 @@
 - **[🔎 文章訂閱網站](https://itsdaiyy.github.io/2024-hex-week6-website/)** - RWD 靜態切版專案
   - 客製化 Bootstrap Sass 主題，採用 7-1 Pattern 管理 CSS 架構。
   - 使用技術： `Bootstrap 5` , `EJS`
-  - [🔗 前往 Repo ](https://github.com/itsdaiyy/react-boxes)
+  - [🔗 前往 Repo ](https://github.com/itsdaiyy/2024-hex-week6-website)
 
 
 ---
