@@ -29,10 +29,9 @@
 ---
 
 ### 🔥 Current Focus
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) 
+- 持續深入學習 **React 生態系**，包含狀態管理、效能優化、模組化開發技巧
+- 練習使用 **GSAP** 處理介面動態效果，提升作品互動體驗
+- 下一階段將投入學習 **TypeScript** 與 **Next.js**，提升開發可維護性與探索 SSR、SEO 等進階應用
 
 ---
 
