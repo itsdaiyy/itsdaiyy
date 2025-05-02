@@ -2,16 +2,16 @@
 
 - Front-end Web Developer  
 - 熟悉以 React 搭配 Bootstrap / Tailwind 開發前端應用程式 💻  
-- 能夠使用 Miro 繪製線稿圖、網站架構圖與功能流程圖，並透過 CodePen 快速 prototyping，促進與設計師的視覺溝通 💭
-- 2024 參與六角學院培訓課程，精進切版、JavaScript、React 等前端實戰技能 ✨
-- 目前專注於網站動態特效（GSAP、Framer Motion）應用，並規劃學習 Next.js，拓展伺服器渲染與 SEO 最佳化技術 📈
-- 遠期目標成為具備設計思維的開發者 🎨
+- 能夠使用 Miro 繪製線稿圖、網站架構圖與功能流程圖，並透過 CodePen 快速 prototyping，促進與設計師的視覺溝通💭
+- 2024 參與六角學院培訓課程，精進切版、JavaScript、React 等前端實戰技能✨
+- 目前專注於 React 生態系、網站動態特效（GSAP）應用🪄
+- 遠期目標成為具備設計思維的開發者🎨
 
 ---
 
 ### 🎨 Projects
 
-- **[📦 返箱轉運站](https://ana000701.github.io/react-boxes/)** - 二手紙箱回收服務平台（團隊合作）
+- **[📦 返箱轉運站](https://itsdaiyy.github.io/react-boxes/#/)** - 推廣「紙箱二次使用」的共享平台（團隊合作）
   - 使用者可透過地圖搜尋合作商家進行紙箱交換，致力於減少紙箱資源浪費 ♻️  
   - 使用技術：`React`, `Supabase`, `React Router`, `Leaflet`, `ShadCN`, `Tailwind CSS` <br />
   - 主要負責項目：
@@ -29,8 +29,9 @@
 
 ### 🔥 Current Focus
 
-- 網頁動態特效：GSAP、Framer Motion
-- SSR 與動態路由：Next.js
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) 
 
 ---
 
@@ -38,10 +39,10 @@
 <!-- 若你有更多技術想展示，也可以補上更多 badge -->
 #### 🧩 Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) <br />
 
 #### 🎨 Styling
