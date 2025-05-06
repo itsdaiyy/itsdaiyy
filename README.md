@@ -4,7 +4,7 @@
 - 熟悉以 React 搭配 Bootstrap / Tailwind 開發前端應用程式 💻  
 - 能夠使用 Miro 繪製線稿圖、網站架構圖與功能流程圖，並透過 CodePen 快速 prototyping，促進與設計師的視覺溝通💭
 - 2024 參與六角學院培訓課程，精進切版、JavaScript、React 等前端實戰技能✨
-- 目前專注於 React 生態系、網站動態特效（GSAP）應用🪄
+- 近期投入 Vue 生態系與 GSAP 動態特效的實作應用🪄
 - 遠期目標成為具備設計思維的開發者🎨
 
 ---
@@ -24,14 +24,6 @@
   - 客製化 Bootstrap Sass 主題，採用 7-1 Pattern 管理 CSS 架構。
   - 使用技術： `Bootstrap 5` , `EJS`
   - [🔗 前往 Repo ](https://github.com/itsdaiyy/2024-hex-week6-website)
-
-
----
-
-### 🔥 Current Focus
-- 持續深入學習 **React 生態系**，包含狀態管理、效能優化、模組化開發技巧
-- 練習使用 **GSAP** 處理介面動態效果，提升作品互動體驗
-- 下一階段將投入學習 **TypeScript** 與 **Next.js**，提升開發可維護性與探索 SSR、SEO 等進階應用
 
 ---
 
