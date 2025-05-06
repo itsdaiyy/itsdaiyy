@@ -1,11 +1,11 @@
 ## Hi，我是戴 👋🏻
 
 - Front-end Web Developer  
-- 熟悉以 React 搭配 Bootstrap / Tailwind 開發前端應用程式 💻  
-- 能夠使用 Miro 繪製線稿圖、網站架構圖與功能流程圖，並透過 CodePen 快速 prototyping，促進與設計師的視覺溝通💭
-- 2024 參與六角學院培訓課程，精進切版、JavaScript、React 等前端實戰技能✨
-- 近期投入 Vue 生態系與 GSAP 動態特效的實作應用🪄
-- 遠期目標成為具備設計思維的開發者🎨
+- **擅長技能｜**熟悉以 React 搭配 Bootstrap / Tailwind 開發前端應用程式 💻 
+- **多人協作｜**使用 Miro 繪製線稿圖、網站架構圖與功能流程圖，並透過 CodePen 快速 prototyping，促進與設計師的視覺溝通💭
+- **學習經歷｜**2024 參與六角學院培訓課程，精進切版、JavaScript、React 等前端實戰技能✨
+- **目前專注｜**投入 Vue 生態系與 GSAP 動態特效的實作應用🪄
+- **遠期目標｜**遠期目標成為具備設計思維的開發者🎨
 
 ---
 
