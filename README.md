@@ -17,7 +17,7 @@
   - 主要負責項目：
     1. **發想階段 |** 以 Miro 規劃店家資訊頁面 Wireframe、會員資訊頁功能流程圖、網站地圖，並統整團隊意見與設計師溝通視覺想法。
     2. **開發階段 |** 資料結構設計、Supabase 串接、React Query 遠端資料管理、使用者權限設計。
-    3. **專題延伸 |** 目前持續優化 UI 元件排版與視覺層級，並嘗試導入動態特效提升互動性與流暢感（如頁面過渡效果）。
+    3. **專題延伸 |** 目前持續優化 化 UI 介面，並導入 GSAP 動態效果。
   - [🔗 前往 Repo ](https://github.com/itsdaiyy/react-boxes)
  
 - **[🔎 文章訂閱網站](https://itsdaiyy.github.io/2024-hex-week6-website/)** - RWD 靜態切版專案
